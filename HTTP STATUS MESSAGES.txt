@@ -1,0 +1,25 @@
+100                 –            continue
+101                  –            switching protocols
+103                 –             checkpoint
+200                 –             ok
+201                   –           created
+202                   -              accepted 
+203                     –           non – Authorative formation
+204                    –           no content
+205                    –           reset content
+206                    –             partial content
+300                    --           Multiple choices
+301                   --            moved permanently
+302                   -              found
+303                   --            see other
+304                    --          not modified
+400                   --            bad request
+401                      -           unauthorised
+402                    ---           payment required
+403                      --            forbidden
+404                     --            not found
+405                      --              method not allowed
+500                      --              internal server error
+501                     --               not implemented
+502                      --              bad gateway
+503                       --             service unavailable
